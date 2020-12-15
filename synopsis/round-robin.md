@@ -16,7 +16,7 @@ GitHub: scottcate
 
 ## Short description
 
-Round Robin is a networking term that describes a load balancing scenario for traffic distribution. Traffic is equally distributed in a sequence so that are requests are distributed equally amongst the available servers.
+Round Robin is a networking term that describes a load balancing scenario where traffic is distributed so that all incoming requests are distributed equally amongst available servers.
 
 > Please keep to about 25 words maximum.
 
@@ -30,7 +30,7 @@ Round Robin is a networking term that describes a load balancing scenario for tr
 
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#phonetics)
 
-wɜrd
+raʊnd ˈrɑbən
 
 ## Personal notes
 
