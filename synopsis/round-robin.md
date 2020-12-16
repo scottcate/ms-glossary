@@ -16,19 +16,9 @@ GitHub: scottcate
 
 ## Short description
 
-Round Robin is a networking term that describes a load balancing scenario where traffic is distributed so that all incoming requests are distributed equally amongst available servers.
-
-> Please keep to about 25 words maximum.
-
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#short-description)
+Round Robin is a distribution term to evenly distribute incoming resources to an array of available service handlers. Round Robin is commonly used in (but not limited to) data storage and network traffic load balancing. Both scenerios have large amounts of inbound requests that are evenly distributed amongst an array of back end servers.
 
 ## Phonetics
-
-[https://tophonetics.com](https://tophonetics.com/)
-
-> Add the phonetics of the word or the expression.
-
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#phonetics)
 
 raʊnd ˈrɑbən
 
@@ -39,28 +29,16 @@ raʊnd ˈrɑbən
 > [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#personal-notes)
 
 ## Keywords
-
-> List of keywords or keyphrases, comma separated.
-
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#keywords-or-key-expressions)
-
-> For example
-
-AAD, Active Directory, Authentication, Identity
+roundrobin
 
 ## Demos
-
-> Quick list of the demos you want to show.
-
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#demos)
-
-- Short description of the demo.
+* Graphic slide showing inbound traffic getting distributed evenly to a group of servers.
 
 ## Links to docs
-
-> As part of the preparation, prepare a list of links to the documentation that you will use to prepare the content. These links will be included in the website too.
-
-> [See the notes](https://github.com/lbugnion/ms-glossary/blob/main/instructions/getting-started.md#links-to-docs)
+* [Traffic Manager Round Robin](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-configure-weighted-routing-method#use-the-traffic-manager-profile)
+* [Traffic Manager, Add, Disable, Enable, or Delete points](https://docs.microsoft.com/en-us/azure/traffic-manager/traffic-manager-manage-endpoints)
+* [Azure Front Door routing methods](https://docs.microsoft.com/en-us/azure/frontdoor/front-door-routing-methods)
+* [Distributed table storage with Azure Synapse Analytics](https://docs.microsoft.com/en-us/azure/synapse-analytics/sql-data-warehouse/sql-data-warehouse-tables-distribute)
 
 >For example:
 
